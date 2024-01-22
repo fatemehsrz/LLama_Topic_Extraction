@@ -8,8 +8,11 @@
 - [x] Google Golab `'drive.mount('/content/gdrive')'`
 - [x] Flask HTML template `'index8.html'` needs to be loaded on Google Drive
 
+**Dataset**
+- [x] From ML-ArXiv-Papers`'CShorten/ML-ArXiv-Papers'`
+
 **Source Code**
-- [x] Run `'LLAMA_Tuned_Flask.ipython'`
+- [x] Run `'LLAMA_Tuned_Flask.ipynb'`
 
 
 **Flask API**
