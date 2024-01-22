@@ -16,7 +16,7 @@
 
 
 **Flask API**
-![plot](./interface.png)
+![plot](./app.png)
 Click on the link to access the Interface.
 ![plot](./flask.png)
 
