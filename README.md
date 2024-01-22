@@ -1,7 +1,7 @@
 # Llama_Topic_Extraction
 
 
-**Dependencies and Configuations**
+**Dependencies and Configurations**
 - [x] `'pip install q torch peft==0.4.0  bitsandbytes==0.40.2  transformers==4.31.0  trl==0.4.7 accelerate'`
 - [x] `'pip install flask pyngrok==4.1.1 flask-ngrok'`
 - [x] GPU on Google Colab
